@@ -23,12 +23,14 @@ function Footer() {
           <a href="/">Home</a>
           <a href="/services">Services</a>
           <a href="/portfolio">Portfolio</a>
+          <a href="/testimonials">Testimonials</a>
+          <a href="/contact">Contact</a>
         </div>
 
         <div className="footer-links">
           <h4>Contact</h4>
           <a href="mailto:hello@smartlogix.com">hello@smartlogix.com</a>
-          <a href="tel:+1234567890">+1 (234) 567-890</a>
+          <a href="tel:+91234567890">+91 234567890</a>
           <span>48 Mercer Lane, New York</span>
         </div>
       </div>

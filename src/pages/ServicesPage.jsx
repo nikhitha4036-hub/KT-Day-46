@@ -58,10 +58,10 @@ function ServicesPage() {
             tailored design story.
           </p>
           <div className="hero-actions">
-            <button type="button" className="primary-btn">
+            <button type="button" className="primary-btn" href="/contact">
               Schedule a consult
             </button>
-            <button type="button" className="secondary-btn">
+            <button type="button" className="secondary-btn" href="/portfolio">
               View portfolio
             </button>
           </div>

@@ -34,9 +34,6 @@ function Navbar() {
             </NavLink>
           ))}
         </nav>
-        <button type="button" className="nav-cta">
-          Book a Consultation
-        </button>
       </div>
     </header>
   );
